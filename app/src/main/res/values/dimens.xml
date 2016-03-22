@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="actionbar_height">42dp</dimen>
+
+    <!-- 预定义字体大小 -->
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_more_large">32sp</dimen>
+
+    <!-- 按钮高度 -->
+    <dimen name="btn_height">36dp</dimen>
+    <!-- 圆角弧度 -->
+    <dimen name="corner_small">3.3dp</dimen>
+    <dimen name="corner_big">11.3dp</dimen>
+    <!-- 分割线高度 -->
+    <dimen name="divider_height">0.7dp</dimen>
+    <dimen name="small_divider">0.1dp</dimen>
+
+    <!-- 预定义尺寸 -->
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_44">44dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_76">76dp</dimen>
+    <dimen name="dimen_88">88dp</dimen>
+    <dimen name="dimen_96">96dp</dimen>
+    <dimen name="dimen_128">128dp</dimen>
+    <dimen name="dimen_192">192dp</dimen>
+</resources>

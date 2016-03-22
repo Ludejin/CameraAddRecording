@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">天网采点工具</string>
+    <string name="action_settings">设置</string>
+    <string name="action_logout">注销</string>
+    <string name="doLogin">登&#x0020;录</string>
+    <string name="set_server_url">设置服务器地址</string>
+    <!-- 主菜单 -->
+    <string name="main_menu_1">新增布防点位</string>
+    <string name="main_menu_2">查看布防列表</string>
+    <string name="main_menu_3">上传数据</string>
+    <string name="main_menu_4">测试摄像机</string>
+    <string name="main_menu_5">安装录入</string>
+
+    <!-- 通用 -->
+    <string name="btn_Ok">确&#x0020;定</string>
+    <string name="btn_Add">添&#x0020;加</string>
+    <string name="btn_Cancel">取&#x0020;消</string>
+
+    <string name="title_user_login">用户登录</string>
+
+    <!-- 数组 -->
+    <array name="ary_vision_size">
+        <item>宽</item>
+        <item>中</item>
+        <item>窄</item>
+    </array>
+    <array name="ary_install_type">
+        <item>壁挂</item>
+        <item>新建立杆</item>
+        <item>借电杆</item>
+        <item>借路灯杆</item>
+        <item>其他</item>
+    </array>
+</resources>

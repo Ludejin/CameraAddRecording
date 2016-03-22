@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/put_toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:padding="@dimen/dimen_16">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@id/main_menu_01"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_128"
+                android:layout_marginTop="@dimen/dimen_8"
+                android:background="@drawable/green_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/main_menu_1"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/main_menu_02"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_128"
+                android:layout_marginTop="@dimen/dimen_8"
+                android:background="@drawable/blue_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/main_menu_2"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/main_menu_03"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_128"
+                android:layout_marginTop="@dimen/dimen_8"
+                android:background="@drawable/lime_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/main_menu_3"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/main_menu_04"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_128"
+                android:layout_marginTop="@dimen/dimen_8"
+                android:background="@drawable/purple_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/main_menu_4"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/main_menu_05"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_128"
+                android:layout_marginTop="@dimen/dimen_8"
+                android:background="@drawable/lime_selector"
+                android:clickable="true" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/main_menu_5"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id">false</item>
+    <item name="toolbar_title" type="id">false</item>
+    <item name="btn_ok" type="id">false</item>
+    <item name="btn_cancel" type="id">false</item>
+    <item name="btn_add" type="id">false</item>
+
+    <!-- 菜单id -->
+    <item name="main_menu_01" type="id">false</item>
+    <item name="main_menu_02" type="id">false</item>
+    <item name="main_menu_03" type="id">false</item>
+    <item name="main_menu_04" type="id">false</item>
+    <item name="main_menu_05" type="id">false</item>
+
+    <!-- 新增点位相关 -->
+    
+    <item name="btn_get_lon_lat" type="id">false</item>
+    <item name="btn_get_orientation" type="id">false</item>
+    <item name="spn_vision_size" type="id">false</item>
+    <item name="tv_install_type" type="id">false</item>
+    <item name="edt_height" type="id">false</item>
+    <item name="edt_centre_dist_int" type="id">false</item>
+    <item name="edt_centre_dist_dec" type="id">false</item>
+    <item name="tv_longitude" type="id">false</item>
+    <item name="tv_latitude" type="id">false</item>
+    <item name="tv_orientation" type="id">false</item>
+    <item name="iv_snapshot" type="id">false</item>
+    <item name="iv_take_snapshot" type="id">false</item>
+    <item name="tv_pro_city" type="id">false</item>
+    <item name="tv_detail_address" type="id">false</item>
+</resources>
